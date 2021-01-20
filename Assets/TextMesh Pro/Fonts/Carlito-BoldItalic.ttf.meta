@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: fdf3e96d90db93f4e96b4741ad65f0db
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Carlito
+  fontNames:
+  - Carlito
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74f253b4b5668d44184a1bb7c7afe052, type: 3}
+  - {fileID: 12800000, guid: 7221c0b5e322e3845aba81fb92a231e2, type: 3}
+  - {fileID: 12800000, guid: a440555f12bb4124182afe859cb9cbeb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
